@@ -25,10 +25,8 @@ In the script a dictionary (`folders_dict`) is used to map various file extensio
 ...
 ```
 
-[#ff0000]
-## Caution
-This program will sort all the files in the directory where it is run. Use it carefully as the process is not easily reversible. Also, always make sure to backup your files before running the script.
-[/#ff0000]
+>[!CAUTION]
+>This program will sort all the files in the directory where it is run. Use it carefully as the process is not easily reversible. Also, always make sure to backup your files before running the script.
 
 ## Troubleshooting
 In case of any errors, check whether the file or directory it’s trying to move already exists in the destination location or not. Also, make sure the script has enough permission to access and modify the directory.

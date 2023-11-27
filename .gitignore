@@ -1,0 +1,29 @@
+# Python build artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+
+# virtual environments
+env/
+venv/
+ENV/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Editors
+.vscode/
+.idea/
+*.sw?
+
+# Tools
+.ipynb_checkpoints/
+.coverage
+.coverage.*
+.htmlcov/
+.tox/
+.nox/
+.pytest_cache/
+.pyre/
+.mypy_cache/

@@ -2,6 +2,9 @@
 
 This Python script helps organize your default Downloads folder by sorting files into respective folders based on their file extensions.
 
+> [!NOTE]
+> This currently only works for Windows PCs.
+
 ## Implementation
 The script creates if not exist and sorts files into 'Images', 'Videos', 'Audios', 'Documents', 'Executables', 'Others', and 'Folders' directories.
 

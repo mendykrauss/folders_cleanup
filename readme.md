@@ -24,12 +24,13 @@ In the script a dictionary (`folders_dict`) is used to map various file extensio
 '.3gp', '.3g2'],
 ...
 ```
-
+---
 >[!CAUTION]
 >This program will sort all the files in the directory where it is run. Use it carefully as the process is not easily reversible. Also, always make sure to backup your files before running the script.
 
 ## Troubleshooting
 In case of any errors, check whether the file or directory it’s trying to move already exists in the destination location or not. Also, make sure the script has enough permission to access and modify the directory.
 
+---
 ## Future Plans
 In future updates, we plan to make the sorting process reversible and the classifications more flexible for better customization.
